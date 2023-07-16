@@ -1,5 +1,6 @@
-# ark-minecraft-modpack
-[OFFICIAL] Ark Computing Minecraft Modpack
+# [OFFICIAL] Ark Computing Minecraft Modpack
+
+---
 
 ## Note to all mod authors whose work is used in this project:
 
